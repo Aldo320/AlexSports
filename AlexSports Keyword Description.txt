@@ -1,0 +1,21 @@
+
+Consultas
+Keyword:"Calzados,Deportes,Fitness,Consultas"
+Descripción:"Consulta tu duda en AlexSports el mejor lugar de calzados deportivos"
+
+Donde Podes Encontrarnos
+
+Keyword:"Calzados,Deportes,Fitness,Ubicación,Lugar"
+Descripción:"Puedes encontrar el local de calzados AlexSports aquí"
+
+Marcas
+Keyword:"Calzados,Deportes,Fitness,Marcas,Fit,Nike,Adidas,Puma,Umbro,New Balance,Reebok"
+Descripción:"Elege tu marca de calzados preferida aquí, contamos con todas las marcas que te gustan"
+
+Quienes Somos
+Keyword:"Calzados,Deportes,Fitness,información,Empresa"
+Descripción:"Ofrecemos las marcas de calzados más reconocidas del mercado, tanto nacionales como internacionales"
+
+Inicio
+Keyword:"Calzados,Deportes,Fitness,Marcas,Fit,Nike,Adidas,Puma,Umbro,New Balance,Reebok"
+Descripción:"Ofrecemos las marcas de calzados más reconocidas del mercado, tanto nacionales como internacionales"
