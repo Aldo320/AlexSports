@@ -1,0 +1,17 @@
+$colores:(
+    Instagram: rgb(182, 5, 167) 
+    Facebook: rgb(0, 38, 255)
+    Twitter: rgb(83, 229, 255) 
+);
+
+.btn {
+    padding: 10px 15px;
+    border: 0;
+    border-radius: 20px;
+}
+
+@each $key , $var in $colores {
+    .btn-#{$key}{
+        background-color: $var;
+    }
+}
